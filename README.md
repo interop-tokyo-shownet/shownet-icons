@@ -10,8 +10,8 @@ and the icons in .ai and .svg formats are also available in this repository unde
 <img width="1250" alt="shownet-icons-example" src="https://github.com/interop-tokyo-shownet/shownet-icons-test/assets/184632/f5453688-2368-43bc-b21d-3fb11e80030d">
 
 
-ShowNet Icons cover varied network devices, for example, router,
-switch, server, storage, firewall, vpn gateway, wireless AP,
+ShowNet Icons cover varied types of networking components, for example,
+router, switch, server, storage, firewall, vpn gateway, wireless AP,
 tester, dwdm, roadm, tap, cloud, lines of different widths
 representing link speeds,, and more!!
 
