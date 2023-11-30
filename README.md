@@ -10,10 +10,10 @@ and the icons in .ai and .svg formats are also available in this repository unde
 <img width="1250" alt="shownet-icons-example" src="https://github.com/interop-tokyo-shownet/shownet-icons-test/assets/184632/f5453688-2368-43bc-b21d-3fb11e80030d">
 
 
-ShowNet Icons cover varied network devices, for example, routers,
-switches, servers, storages, firewalls, vpn gateways, wireless APs,
-testers, dwdm, roadm, tap, clouds, lines of different widths
-representing link speeds, stacks,, and more!!
+ShowNet Icons cover varied network devices, for example, router,
+switch, server, storage, firewall, vpn gateway, wireless AP,
+tester, dwdm, roadm, tap, cloud, lines of different widths
+representing link speeds,, and more!!
 
 All the icons are designed and developed by the Artist (Ekaki-san in
 Japanese, a.k.a pero-san) in ShowNet NOC Team.
@@ -28,9 +28,9 @@ interop exhibitors and visitors while conducting interoperability
 tests and various demonstrations of the latest networking technologies
 every year.
 
-ShowNet every year is designed for 6 months, built for 12 days, and
-operated for 3 days during the exhibition by over 300 engineers having
-various backgrounds.
+ShowNet is designed for 6 months, built for 12 days, and operated for
+3 days during the exhibition by over 300 engineers having various
+backgrounds.
 
 Behind the scenes - Interop Tokyo 2019 ShowNet:
 https://www.youtube.com/watch?v=X-JhPs1T7sc
