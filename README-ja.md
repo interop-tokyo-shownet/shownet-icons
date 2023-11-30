@@ -33,9 +33,13 @@ ShowNetは、[Interop Tokyo](https://interop.jp)という、日本最大のイ�
 このShowNetは、毎年300人以上のエンジニアによって、設計に6ヶ月、構築に
 12日をかけ、そしてInteropの展示会3日間にわたって運用されます。
 
-- Behind the scenes - Interop Tokyo 2019 ShowNet: https://www.youtube.com/watch?v=X-JhPs1T7sc
+- [Behind the scenes - Interop Tokyo 2019 ShowNet](https://www.youtube.com/watch?v=X-JhPs1T7sc) in Youtube
+
+ShowNet Icons are designed and used for ShowNet Topology Diagrams.
+
+
 
 ShowNetアイコンは、このShowNetのトポロジ図(通称e.pdf)を描くためにデザインされました。
 
-- 図面ができるまで: https://www.youtube.com/watch?v=e_h4RDm69AY
-- 図面とともにあらんことを!: https://www.f2ff.jp/interop/2013/noc/-shownet-topology-map1.php
+- [図面ができるまで](https://www.youtube.com/watch?v=e_h4RDm69AY) in Youtube
+- [図面とともにあらんことを!](https://www.f2ff.jp/interop/2013/noc/-shownet-topology-map1.php)

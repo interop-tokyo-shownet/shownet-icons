@@ -1,7 +1,7 @@
 
 # ShowNet Icons
 
-REAEDME in [English](https://github.com/interop-tokyo-shownet/shownet-icons-test/raw/master/README.md)/[Japanese](https://github.com/interop-tokyo-shownet/shownet-icons-test/raw/master/README-ja.md)
+REAEDME in [[English](https://github.com/interop-tokyo-shownet/shownet-icons-test/blob/master/README.md) / [Japanese](https://github.com/interop-tokyo-shownet/shownet-icons-test/blob/master/README-ja.md)]
 
 This repository contains the ShowNet Icons, which are suitable for
 drawing network topology diagrams.
@@ -34,8 +34,8 @@ ShowNet is designed for 6 months, built for 12 days, and operated for
 3 days during the exhibition by over 300 engineers having various
 backgrounds.
 
-- Behind the scenes - Interop Tokyo 2019 ShowNet: https://www.youtube.com/watch?v=X-JhPs1T7sc
+- [Behind the scenes - Interop Tokyo 2019 ShowNet](https://www.youtube.com/watch?v=X-JhPs1T7sc) in Youtube
 
 ShowNet Icons are designed and used for ShowNet Topology Diagrams.
 
-- You can see how the diagram is drawn in a year: https://www.youtube.com/watch?v=e_h4RDm69AY
+- [How the diagram is drawn in a year](https://www.youtube.com/watch?v=e_h4RDm69AY) in Youtube
