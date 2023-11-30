@@ -4,11 +4,11 @@
 This repository contains the ShowNet Icons, which are icons for
 networking components.
 
-You can download all-in-one pptx file from [this
-link](https://github.com/interop-tokyo-shownet/shownet-icons-test/raw/master/ShowNet%20Icons%202023%201.01.pptx)
+You can download all-in-one pptx file from [HERE](https://github.com/interop-tokyo-shownet/shownet-icons-test/raw/master/ShowNet%20Icons%202023%201.01.pptx),
+and the icons in .ai and .svg formats are also available in this repository.
 
-The icons in .ai and .svg formats are also available in this
-repository.
+<img width="1250" alt="shownet-icons-example" src="https://github.com/interop-tokyo-shownet/shownet-icons-test/assets/184632/f5453688-2368-43bc-b21d-3fb11e80030d">
+
 
 ShowNet Icons cover varied network devices, for example, routers,
 switches, servers, storages, firewalls, vpn gateways, wireless APs,
