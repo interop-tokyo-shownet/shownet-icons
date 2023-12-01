@@ -35,10 +35,6 @@ ShowNetは、[Interop Tokyo](https://interop.jp)という、日本最大のイ�
 
 - [Behind the scenes - Interop Tokyo 2019 ShowNet](https://www.youtube.com/watch?v=X-JhPs1T7sc) in Youtube
 
-ShowNet Icons are designed and used for ShowNet Topology Diagrams.
-
-
-
 ShowNetアイコンは、このShowNetのトポロジ図(通称e.pdf)を描くためにデザインされました。
 
 - [図面ができるまで](https://www.youtube.com/watch?v=e_h4RDm69AY) in Youtube

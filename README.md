@@ -1,7 +1,7 @@
 
 # ShowNet Icons
 
-REAEDME in [[English](https://github.com/interop-tokyo-shownet/shownet-icons-test/blob/master/README.md) / [Japanese](https://github.com/interop-tokyo-shownet/shownet-icons-test/blob/master/README-ja.md)]
+README in [[English](https://github.com/interop-tokyo-shownet/shownet-icons-test/blob/master/README.md) / [Japanese](https://github.com/interop-tokyo-shownet/shownet-icons-test/blob/master/README-ja.md)]
 
 This repository contains the ShowNet Icons, which are suitable for
 drawing network topology diagrams.
