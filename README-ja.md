@@ -1,7 +1,7 @@
 
 # ShowNet Icons
 
-このレポジトリは、ネットワークのトポロジ図を描く時に使える**ShowNetアイコン**のレポジトリです。
+このレポジトリは、ネットワークのトポロジ図を描く時に使える**ShowNetアイコン**のレポジトリです。どのようなトポロジ図が描けるかは、例えば[ShowNet 2023のトポロジ図](https://www.interop.jp/2023/shownet/topology.pdf)をご覧ください。
 
 すべてのアイコンが入ったpptxファイルのダウンロードは [コチラ](https://github.com/interop-tokyo-shownet/shownet-icons-test/raw/master/ShowNet%20Icons%202023%201.01.pptx)。
 
