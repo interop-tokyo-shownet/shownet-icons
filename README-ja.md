@@ -37,5 +37,5 @@ ShowNetは、[Interop Tokyo](https://interop.jp)という、日本最大のイ�
 
 ShowNetアイコンは、このShowNetのトポロジ図(通称e.pdf)を描くためにデザインされました。
 
-- [図面ができるまで](https://www.youtube.com/watch?v=e_h4RDm69AY) in Youtube
+- [図面ができるまで](https://www.youtube.com/watch?v=HpnMzJkDpQg) in Youtube
 - [図面とともにあらんことを!](https://www.f2ff.jp/interop/2013/noc/-shownet-topology-map1.php)
