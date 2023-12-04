@@ -1,16 +1,16 @@
 
 # ShowNet Icons
 
-README in [[English](https://github.com/interop-tokyo-shownet/shownet-icons-test/blob/master/README.md) / [Japanese](https://github.com/interop-tokyo-shownet/shownet-icons-test/blob/master/README-ja.md)]
+README in [[English](https://github.com/interop-tokyo-shownet/shownet-icons/blob/master/README.md) / [Japanese](https://github.com/interop-tokyo-shownet/shownet-icons/blob/master/README-ja.md)]
 
 This repository contains the **ShowNet Icons**, which are suitable for
 drawing network topology diagrams, for exmaple, [the topology diagram of ShowNet in 2023](https://www.interop.jp/2023/shownet/topology.pdf).
 
-You can download all-in-one pptx file from [HERE](https://github.com/interop-tokyo-shownet/shownet-icons-test/raw/master/ShowNet%20Icons%202023%201.01.pptx),
+You can download all-in-one pptx file from [HERE](https://github.com/interop-tokyo-shownet/shownet-icons/raw/master/ShowNet%20Icons%202023%201.01.pptx),
 and the icons in .ai and .svg formats are also available in this repository.
 All materials are available under CC-BY-SA 4.0.
 
-<img width="1250" alt="shownet-icons-example" src="https://github.com/interop-tokyo-shownet/shownet-icons-test/assets/184632/f5453688-2368-43bc-b21d-3fb11e80030d">
+<img width="1250" alt="shownet-icons-example" src="https://github.com/interop-tokyo-shownet/shownet-icons/assets/184632/f5453688-2368-43bc-b21d-3fb11e80030d">
 
 
 ShowNet Icons cover varied types of networking components:

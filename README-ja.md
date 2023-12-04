@@ -3,13 +3,13 @@
 
 このレポジトリは、ネットワークのトポロジ図を描く時に使える**ShowNetアイコン**のレポジトリです。どのようなトポロジ図が描けるかは、例えば[ShowNet 2023のトポロジ図](https://www.interop.jp/2023/shownet/topology.pdf)をご覧ください。
 
-すべてのアイコンが入ったpptxファイルのダウンロードは [コチラ](https://github.com/interop-tokyo-shownet/shownet-icons-test/raw/master/ShowNet%20Icons%202023%201.01.pptx)。
+すべてのアイコンが入ったpptxファイルのダウンロードは [コチラ](https://github.com/interop-tokyo-shownet/shownet-icons/raw/master/ShowNet%20Icons%202023%201.01.pptx)。
 
 pptxファイルをはじめ、.aiや.svgフォーマットを含むこのレポジトリのファ
 イルはCC-BY-SA 4.0で公開されています。
 
 
-<img width="1250" alt="shownet-icons-example" src="https://github.com/interop-tokyo-shownet/shownet-icons-test/assets/184632/f5453688-2368-43bc-b21d-3fb11e80030d">
+<img width="1250" alt="shownet-icons-example" src="https://github.com/interop-tokyo-shownet/shownet-icons/assets/184632/f5453688-2368-43bc-b21d-3fb11e80030d">
 
 
 ShowNetアイコンは、ルータ、スイッチ、サーバ、ストレージ、ファイウール、
