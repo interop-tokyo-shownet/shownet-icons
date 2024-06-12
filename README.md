@@ -4,9 +4,9 @@
 README in [[English](https://github.com/interop-tokyo-shownet/shownet-icons/blob/master/README.md) / [Japanese](https://github.com/interop-tokyo-shownet/shownet-icons/blob/master/README-ja.md)]
 
 This repository contains the **ShowNet Icons**, which are suitable for
-drawing network topology diagrams, for example, [the topology diagram of ShowNet in 2023](https://www.interop.jp/2023/shownet/topology.pdf).
+drawing network topology diagrams, for example, [the topology diagram of ShowNet in 2024](https://www.interop.jp/2024/assets/file/e-web.pdf).
 
-You can download an all-in-one pptx file from [HERE](https://github.com/interop-tokyo-shownet/shownet-icons/raw/master/ShowNet%20Icons%202023%201.01.pptx),
+You can download an all-in-one pptx file from [HERE](https://github.com/interop-tokyo-shownet/shownet-icons/raw/master/ShowNet%20Icons%202024%201.02.pptx),
 and the icons in .ai and .svg formats are also available in this repository.
 All materials are available under CC-BY-SA 4.0.
 
