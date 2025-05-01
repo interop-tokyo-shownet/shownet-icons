@@ -29,7 +29,7 @@ Tokyo](https://interop.jp), the largest annual exhibition of Internet
 technologies in Japan. ShowNet provides internet connectivity for
 interop exhibitors and visitors while conducting interoperability
 tests and various demonstrations of the latest networking technologies
-every year.
+every year. [This article in the Internet Protocol Journal](https://ipj.dreamhosters.com/wp-content/uploads/2025/04/281-ipj.pdf) explains what Interop Tokyo ShowNet is.
 
 ShowNet is designed for 6 months, built for 12 days, and operated for
 3 days during the exhibition by over 300 engineers with various
