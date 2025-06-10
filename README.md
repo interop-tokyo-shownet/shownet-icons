@@ -8,7 +8,7 @@ drawing network topology diagrams, for example, [the topology diagram of ShowNet
 
 You can download an all-in-one pptx file from [HERE](https://github.com/interop-tokyo-shownet/shownet-icons/raw/master/ShowNet%20Icons%202024%201.02.pptx),
 and the icons in .ai and .svg formats are also available in this repository.
-All materials are available under CC-BY-SA 4.0.
+All materials are available under CC-BY 4.0.
 
 <img width="1250" alt="shownet-icons-example" src="https://github.com/interop-tokyo-shownet/shownet-icons/assets/184632/f5453688-2368-43bc-b21d-3fb11e80030d">
 
