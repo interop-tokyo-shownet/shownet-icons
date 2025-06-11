@@ -1,9 +1,9 @@
 
 # ShowNet Icons
 
-このレポジトリは、ネットワークのトポロジ図を描く時に使える**ShowNetアイコン**のレポジトリです。どのようなトポロジ図が描けるかは、例えば[ShowNet 2024のトポロジ図](https://www.interop.jp/2024/assets/file/e-web.pdf)をご覧ください。
+このレポジトリは、ネットワークのトポロジ図を描く時に使える**ShowNetアイコン**のレポジトリです。どのようなトポロジ図が描けるかは、例えば[ShowNet 2025のトポロジ図](https://www.interop.jp/2025/assets/file/e-web.pdf)をご覧ください。
 
-すべてのアイコンが入ったpptxファイルのダウンロードは [コチラ](https://github.com/interop-tokyo-shownet/shownet-icons/raw/master/ShowNet%20Icons%202024%201.02.pptx)。
+すべてのアイコンが入ったpptxファイルのダウンロードは [コチラ](https://github.com/interop-tokyo-shownet/shownet-icons/raw/master/ShowNet%20Icons%202025.pptx)。
 
 pptxファイルをはじめ、.aiや.svgフォーマットを含むこのレポジトリのファ
 イルはCC-BY-SA 4.0で公開されています。
